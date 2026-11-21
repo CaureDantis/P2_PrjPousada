@@ -5,8 +5,8 @@ Trabalho Prático em Dupla desenvolvido para a disciplina de **Programação Ori
 ---
 
 ## Identificação da Dupla
-* **Integrante 1:** [Inserir Nome Completo e RA]
-* **Integrante 2:** [Inserir Nome Completo e RA]
+* **Integrante 1:** Aline Fabiane Cola
+* **Integrante 2:** Caurê Tagliaferro Dantis
 
 ---
 
