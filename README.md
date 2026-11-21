@@ -33,7 +33,7 @@ O projeto segue o padrão de organização em pacotes para garantir o desacoplam
 ## Instruções de Execução
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/CaureDantis/P2_PrjPousada.git>
    ```
 2. Abra o projeto em sua IDE Java de preferência (Eclipse, IntelliJ IDEA ou NetBeans) configurada com **JDK 17 ou superior**.
 3. Localize a classe principal que contém o método `public static void main(String[] args)`.
